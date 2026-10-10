@@ -28,12 +28,13 @@ group chat.
 ## 🔗 Useful links
 - TechCom docs & website archive: https://github.com/psychedelicsinrecovery/tech-committee-public
 - 🧭 [How the helpdesks work](https://psychedelicsinrecovery.github.io/alex-desk-public/howto.html) · 🗺️ [Site map](https://psychedelicsinrecovery.github.io/alex-desk-public/map.html) · 🛤️ [Roadmap](https://psychedelicsinrecovery.github.io/alex-desk-public/roadmap.html) · 🌱 [Sustainability](https://psychedelicsinrecovery.github.io/alex-desk-public/sustainability.html)
-- 🎫 Other desks: [LitCom](https://psychedelicsinrecovery.github.io/litcom-desk-public/) · [GitHubDesk](https://psychedelicsinrecovery.github.io/github-desk-public/) · [PR Desk](https://psychedelicsinrecovery.github.io/pr-desk-public/)
+- 🎫 Other desks: [LitCom](https://psychedelicsinrecovery.github.io/litcom-desk-public/) · [GitHubDesk](https://psychedelicsinrecovery.github.io/github-desk-public/) · [PR Desk](https://psychedelicsinrecovery.github.io/pr-desk-public/) · [BoardDesk](https://github.com/psychedelicsinrecovery/board-of-directors-public#readme)
 - 🆘 In crisis? Call or text **988** (US), or see https://www.psychedelicsinrecovery.org/crisis-resources/ (the desks aren't a crisis line).
 
-## 🛠️ About this repository
-This repository publishes the desk's **public portal** on GitHub Pages. It's generated from PIR®'s private desk
-repository by the Tech Committee's build (`alex-desk/site/build.py`), so changes are made there and published here
-automatically. Ideas or corrections? Open a ticket with `/techcom`.
+## 🪞 Public mirror
+This repository is a **read-only public mirror** that publishes the desk's portal on GitHub Pages. It's generated
+from PIR®'s private desk repository by the Tech Committee's build (`alex-desk/site/build.py`) and pushed here
+automatically by the *Public Mirror Bot*, so changes are made at the source and pull requests here can't be merged.
+Ideas or corrections? Open a ticket with `/techcom`.
 
 <sub>PIR® and Psychedelics In Recovery™ are marks of Psychedelics In Recovery, a 501(c)(3) nonprofit.</sub>
